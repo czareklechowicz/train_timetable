@@ -1,6 +1,3 @@
-from re import X
-
-
 print("Witamy w PKP")
 
 
